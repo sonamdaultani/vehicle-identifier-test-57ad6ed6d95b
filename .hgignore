@@ -1,0 +1,14 @@
+relre:target/.*
+relre:smartsync/*
+relre:build.properties
+relre:.settings/.*
+relre:.project$
+relre:.classpath$
+relre:soap-ui-tests/.*-FAILED.txt
+relre:smartsync/*
+glob:*~
+glob:soapui-errors.log
+glob:global-groovy.log
+glob:soapui.log
+glob:configuration.properties
+glob:*.orig
